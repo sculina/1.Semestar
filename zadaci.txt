@@ -1,9 +1,3 @@
-11. Napišite program vjezba4_zd11.py koji od korisnika traži unos niza znakova koji se sastoji od
-proizvoljne kombinacije slova A, B i C (npr. 'CCBAAABACBBBCACCCCACBBBA') te potom vraća
-udio (postotak) pojavljivanja pojedinog slova u ovom nizu. Također, na kraju ispišite uneseni
-niz znakova sortiran po abecedi.
-
-
 12. Napišite program vjezba4_zd12.py koji od korisnika traži unos nekog niza znamenaka (npr.
 '3412301230') te potom računa aritmetičku sredinu svih unesenih znamenaka.
 **VAŽNO (Predaja zadaće):
